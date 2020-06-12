@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+
 [![Build Status](https://dev.azure.com/az400junho20200765/Projetoblablabla/_apis/build/status/renatoalmeidamartins.calculator?branchName=master)](https://dev.azure.com/az400junho20200765/Projetoblablabla/_build/latest?definitionId=2&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
